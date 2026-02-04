@@ -1,0 +1,288 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{21}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Aljedaani et~al\mbox{.}(2024)]%
+        {aljedaani2024llm_accessibility}
+\bibfield{author}{\bibinfo{person}{Wajdi Aljedaani}, \bibinfo{person}{Ahmed
+  Aljohani}, \bibinfo{person}{Marcelo~M. Eler}, \bibinfo{person}{Abdulrahman
+  Habib}, {and} \bibinfo{person}{Hyunsook Do}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{LLMs for Accessibility in Mobile Apps: Detection
+  and Repair}. In \bibinfo{booktitle}{\emph{Proceedings of the International
+  Conference on Software Engineering (ICSE)}}.
+\newblock
+
+
+\bibitem[Duan et~al\mbox{.}(2024)]%
+        {duan2024ui_mockup_feedback}
+\bibfield{author}{\bibinfo{person}{Peitong Duan}, \bibinfo{person}{Jeremy
+  Warner}, \bibinfo{person}{Yang Li}, {and} \bibinfo{person}{Bjoern Hartmann}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Generating Automatic Feedback on UI Mockups with
+  Large Language Models}. In \bibinfo{booktitle}{\emph{Proceedings of the ACM
+  Conference on Human Factors in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[{Grand View Research}(2024)]%
+        {grandview2024mobile_market}
+\bibfield{author}{\bibinfo{person}{{Grand View Research}}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Mobile Application Market Size, Share \& Trends
+  Analysis Report}.
+\newblock
+\urldef\tempurl%
+\url{https://www.grandviewresearch.com/industry-analysis/mobile-application-market}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2025-02}.
+
+
+\bibitem[Hsueh et~al\mbox{.}(2023)]%
+        {hsueh2023llm_ux_testing}
+\bibfield{author}{\bibinfo{person}{Nien-Lin Hsueh}, \bibinfo{person}{Hsuen-Jen
+  Lin}, {and} \bibinfo{person}{Lien-Chi Lai}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Applying Large Language Model to User Experience
+  Testing}. In \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on
+  Human Factors in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[Huq et~al\mbox{.}(2023)]%
+        {huq2023reca11}
+\bibfield{author}{\bibinfo{person}{Syed~Fatiul Huq}, \bibinfo{person}{Mahan
+  Tafreshipour}, \bibinfo{person}{Kate Kalcevich}, {and} \bibinfo{person}{Sam
+  Malek}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Reca11: Automated Generation of Accessibility Test
+  Reports from Recorded User Transcripts}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the International Conference on
+  Software Engineering (ICSE)}}.
+\newblock
+
+
+\bibitem[{Interaction Design Foundation}({[n.\,d.]})]%
+        {idf_accessibility}
+\bibfield{author}{\bibinfo{person}{{Interaction Design Foundation}}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{Accessibility Overview}.
+\newblock
+\urldef\tempurl%
+\url{https://www.interaction-design.org/literature/topics/accessibility}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2025-02}.
+
+
+\bibitem[Islam et~al\mbox{.}(2010)]%
+        {islam2010mobile_application}
+\bibfield{author}{\bibinfo{person}{Rashedul Islam},
+  \bibinfo{person}{Md.~Rafiqul Islam}, {and} \bibinfo{person}{Tania Mazumder}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Mobile Application and Its Global Impact}.
+\newblock \bibinfo{journal}{\emph{International Journal of Engineering \&
+  Technology}} (\bibinfo{year}{2010}).
+\newblock
+
+
+\bibitem[Lu et~al\mbox{.}(2021)]%
+        {lu2021ux_mobile_apps}
+\bibfield{author}{\bibinfo{person}{Guoying Lu}, \bibinfo{person}{Siyuan Qu},
+  {and} \bibinfo{person}{Yining Chen}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Understanding User Experience for Mobile
+  Applications: A Systematic Literature Review}.
+\newblock \bibinfo{journal}{\emph{International Journal of Human--Computer
+  Interaction}} (\bibinfo{year}{2021}).
+\newblock
+
+
+\bibitem[Lubos et~al\mbox{.}(2024)]%
+        {lubos2024usability_recommendations}
+\bibfield{author}{\bibinfo{person}{Sebastian Lubos}, \bibinfo{person}{Alexander
+  Felfernig}, \bibinfo{person}{Gerhard Leitner}, {and} \bibinfo{person}{Julian
+  Schwazer}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Towards Recommending Usability Improvements with
+  Multimodal Large Language Models}. In \bibinfo{booktitle}{\emph{Proceedings
+  of the ACM Conference on Human Factors in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[{MeasuringU}({[n.\,d.]})]%
+        {measuringu_usability_cost}
+\bibfield{author}{\bibinfo{person}{{MeasuringU}}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{How Much Does a Usability Test Cost?}
+\newblock
+\urldef\tempurl%
+\url{https://measuringu.com/usability-cost}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2025-02}.
+
+
+\bibitem[Nielsen(1994)]%
+        {nielsen1994usability_inspection}
+\bibfield{author}{\bibinfo{person}{Jakob Nielsen}.}
+  \bibinfo{year}{1994}\natexlab{}.
+\newblock \showarticletitle{Usability Inspection Methods}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on Human Factors
+  in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[{Nielsen Norman Group}({[n.\,d.]})]%
+        {nngroup_remote_costs}
+\bibfield{author}{\bibinfo{person}{{Nielsen Norman Group}}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{Remote Usability-Testing Costs}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nngroup.com/articles/remote-usability-testing-costs/}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2025-02}.
+
+
+\bibitem[Pourasad and Maalej(2024)]%
+        {pourasad2024genai_usability}
+\bibfield{author}{\bibinfo{person}{Ali~Ebrahimi Pourasad} {and}
+  \bibinfo{person}{Walid Maalej}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Does GenAI Make Usability Testing Obsolete?}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on Human Factors
+  in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[Taeb et~al\mbox{.}(2023)]%
+        {taeb2023axnav}
+\bibfield{author}{\bibinfo{person}{Maryam Taeb}, \bibinfo{person}{Amanda
+  Swearngin}, \bibinfo{person}{Eldon Schoop}, \bibinfo{person}{Ruijia Cheng},
+  \bibinfo{person}{Yue Jiang}, {and} \bibinfo{person}{Jeffrey Nichols}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{AXNav: Replaying Accessibility Tests from Natural
+  Language}. In \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on
+  Human Factors in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[Wang and Xhakaj(2024)]%
+        {wang2024aiheureval}
+\bibfield{author}{\bibinfo{person}{Yuekai Wang} {and}
+  \bibinfo{person}{Franceska Xhakaj}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{AIHeurEval: Generating Heuristic Evaluations on
+  Multiple UI Screens with Multimodal Large Language Models}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on Human Factors
+  in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[Weichbroth(2019)]%
+        {weichbroth2019usability_model}
+\bibfield{author}{\bibinfo{person}{Pawe{\l} Weichbroth}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Usability of Mobile Applications: A Consolidated
+  Model}.
+\newblock \bibinfo{journal}{\emph{Journal of System and Software}}
+  (\bibinfo{year}{2019}).
+\newblock
+
+
+\bibitem[Xiang et~al\mbox{.}(2023)]%
+        {xiang2023simuser}
+\bibfield{author}{\bibinfo{person}{Wei Xiang}, \bibinfo{person}{Hanfei Zhu},
+  \bibinfo{person}{Suqi Lou}, \bibinfo{person}{Xinli Chen},
+  \bibinfo{person}{Zhenghua Pan}, \bibinfo{person}{Yuping Jin},
+  \bibinfo{person}{Shi Chen}, {and} \bibinfo{person}{Lingyun Sun}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{SimUser: Generating Usability Feedback by
+  Simulating Various Users Interacting with Mobile Applications}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on Human Factors
+  in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[Yang and Li(2023)]%
+        {yang2023uisgpt}
+\bibfield{author}{\bibinfo{person}{Bo Yang} {and} \bibinfo{person}{Shanping
+  Li}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{UISGPT: Automated Mobile UI Design Smell Detection
+  with Large Language Models}. In \bibinfo{booktitle}{\emph{Proceedings of the
+  International Conference on Software Engineering (ICSE)}}.
+\newblock
+
+
+\bibitem[Zhong et~al\mbox{.}(2024a)]%
+        {zhong2024screenaudit}
+\bibfield{author}{\bibinfo{person}{Mingyuan Zhong}, \bibinfo{person}{Ruolin
+  Chen}, \bibinfo{person}{Xia Chen}, \bibinfo{person}{James Fogarty}, {and}
+  \bibinfo{person}{Jacob~O. Wobbrock}.} \bibinfo{year}{2024}\natexlab{a}.
+\newblock \showarticletitle{ScreenAudit: Detecting Screen Reader Accessibility
+  Errors in Mobile Apps Using Large Language Models}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on Human Factors
+  in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[Zhong et~al\mbox{.}(2024b)]%
+        {zhong2024taskaudit}
+\bibfield{author}{\bibinfo{person}{Mingyuan Zhong}, \bibinfo{person}{Xia Chen},
+  \bibinfo{person}{Davin Win~Kyi}, \bibinfo{person}{Chen Li},
+  \bibinfo{person}{James Fogarty}, {and} \bibinfo{person}{Jacob~O. Wobbrock}.}
+  \bibinfo{year}{2024}\natexlab{b}.
+\newblock \showarticletitle{TaskAudit: Detecting Accessibility Errors in Mobile
+  Apps via Agentic Task Execution}. In \bibinfo{booktitle}{\emph{Proceedings of
+  the ACM Conference on Human Factors in Computing Systems (CHI)}}.
+\newblock
+
+
+\bibitem[Zhong et~al\mbox{.}(2023)]%
+        {zhong2023synthetic_heuristic}
+\bibfield{author}{\bibinfo{person}{Ruican Zhong}, \bibinfo{person}{David~W.
+  McDonald}, {and} \bibinfo{person}{Gary Hsieh}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Synthetic Heuristic Evaluation: A Comparison
+  between AI- and Human-Powered Usability Evaluation}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the ACM Conference on Human Factors
+  in Computing Systems (CHI)}}.
+\newblock
+
+
+\end{thebibliography}

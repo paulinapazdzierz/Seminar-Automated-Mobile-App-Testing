@@ -1,0 +1,112 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+The style file: ACM-Reference-Format.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: main.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Warning--empty publisher in aljedaani2024llm_accessibility
+Warning--empty address in aljedaani2024llm_accessibility
+Warning--page numbers missing in both pages and numpages fields in aljedaani2024llm_accessibility
+Warning--empty publisher in duan2024ui_mockup_feedback
+Warning--empty address in duan2024ui_mockup_feedback
+Warning--page numbers missing in both pages and numpages fields in duan2024ui_mockup_feedback
+Warning--empty publisher in hsueh2023llm_ux_testing
+Warning--empty address in hsueh2023llm_ux_testing
+Warning--page numbers missing in both pages and numpages fields in hsueh2023llm_ux_testing
+Warning--empty publisher in huq2023reca11
+Warning--empty address in huq2023reca11
+Warning--page numbers missing in both pages and numpages fields in huq2023reca11
+Warning--empty year in idf_accessibility
+Warning--using n.d. in idf_accessibility
+Warning--no number and no volume in islam2010mobile_application
+Warning--page numbers missing in both pages and numpages fields in islam2010mobile_application
+Warning--no number and no volume in lu2021ux_mobile_apps
+Warning--page numbers missing in both pages and numpages fields in lu2021ux_mobile_apps
+Warning--empty publisher in lubos2024usability_recommendations
+Warning--empty address in lubos2024usability_recommendations
+Warning--page numbers missing in both pages and numpages fields in lubos2024usability_recommendations
+Warning--empty year in measuringu_usability_cost
+Warning--using n.d. in measuringu_usability_cost
+Warning--empty publisher in nielsen1994usability_inspection
+Warning--empty address in nielsen1994usability_inspection
+Warning--page numbers missing in both pages and numpages fields in nielsen1994usability_inspection
+Warning--empty year in nngroup_remote_costs
+Warning--using n.d. in nngroup_remote_costs
+Warning--empty publisher in pourasad2024genai_usability
+Warning--empty address in pourasad2024genai_usability
+Warning--page numbers missing in both pages and numpages fields in pourasad2024genai_usability
+Warning--empty publisher in taeb2023axnav
+Warning--empty address in taeb2023axnav
+Warning--page numbers missing in both pages and numpages fields in taeb2023axnav
+Warning--empty publisher in wang2024aiheureval
+Warning--empty address in wang2024aiheureval
+Warning--page numbers missing in both pages and numpages fields in wang2024aiheureval
+Warning--no number and no volume in weichbroth2019usability_model
+Warning--page numbers missing in both pages and numpages fields in weichbroth2019usability_model
+Warning--empty publisher in xiang2023simuser
+Warning--empty address in xiang2023simuser
+Warning--page numbers missing in both pages and numpages fields in xiang2023simuser
+Warning--empty publisher in yang2023uisgpt
+Warning--empty address in yang2023uisgpt
+Warning--page numbers missing in both pages and numpages fields in yang2023uisgpt
+Warning--empty publisher in zhong2024screenaudit
+Warning--empty address in zhong2024screenaudit
+Warning--page numbers missing in both pages and numpages fields in zhong2024screenaudit
+Warning--empty publisher in zhong2024taskaudit
+Warning--empty address in zhong2024taskaudit
+Warning--page numbers missing in both pages and numpages fields in zhong2024taskaudit
+Warning--empty publisher in zhong2023synthetic_heuristic
+Warning--empty address in zhong2023synthetic_heuristic
+Warning--page numbers missing in both pages and numpages fields in zhong2023synthetic_heuristic
+You've used 21 entries,
+            6056 wiz_defined-function locations,
+            1560 strings with 21425 characters,
+and the built_in function-call counts, 20327 in all, are:
+= -- 2064
+> -- 710
+< -- 0
++ -- 232
+- -- 246
+* -- 1413
+:= -- 2005
+add.period$ -- 91
+call.type$ -- 21
+change.case$ -- 150
+chr.to.int$ -- 20
+cite$ -- 75
+duplicate$ -- 1974
+empty$ -- 1416
+format.name$ -- 305
+if$ -- 4823
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 82
+newline$ -- 213
+num.names$ -- 146
+pop$ -- 1072
+preamble$ -- 1
+purify$ -- 301
+quote$ -- 0
+skip$ -- 663
+stack$ -- 0
+substring$ -- 1049
+swap$ -- 98
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 582
+warning$ -- 54
+while$ -- 99
+width$ -- 0
+write$ -- 418
+(There were 54 warnings)
